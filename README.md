@@ -8,3 +8,11 @@ Re-Revised by EasSide[-ZZ-]<br>
 Comax RolePlay Mod by Reloaded<br>
 
 <strong>You are allowed to edit and redistribute this code but you must give credit.</strong>
+```
+Note: There are some addons that are a bit buggy.
+The MySQL include I wrote in ReloadedUtils.inc was in early development stages
+when I quit SourcePawn therefore I never fixed all the bugs in it so feel free to do so.
+```
+
+Anyway, enjoy the mod<br>
+Reloaded.-
