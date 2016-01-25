@@ -14,6 +14,8 @@ Special thanks to Blodia for the Vehicle Mod!
 Note: There are some addons that are a bit buggy.
 The MySQL include I wrote in ReloadedUtils.inc was in early development stages
 when I quit SourcePawn therefore I never fixed all the bugs in it so feel free to do so.
+
+Oh and by the way, you need to get sdktools and sdkhooks for this to work.
 ```
 
 Anyway, enjoy the mod<br>
