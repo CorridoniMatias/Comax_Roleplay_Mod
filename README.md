@@ -7,6 +7,8 @@ Revised by [GR]Nick 3.2.6n<br>
 Re-Revised by EasSide[-ZZ-]<br>
 Comax RolePlay Mod by Reloaded<br>
 
+Special thanks to Blodia for the Vehicle Mod!
+
 <strong>You are allowed to edit and redistribute this code but you must give credit.</strong>
 ```
 Note: There are some addons that are a bit buggy.
