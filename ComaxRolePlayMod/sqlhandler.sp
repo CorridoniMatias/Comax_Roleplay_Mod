@@ -177,7 +177,7 @@ LoadStringSQL(Handle:db, String:field[], String:steamid[], String:buffer[], maxs
 	
 	Format(query, sizeof(query), "SELECT %s FROM %s WHERE steamid='%s'", field, tables[table], steamid);
 	
-	SQL_LockDatabase(db); //RTFM <-- Google
+	SQL_LockDatabase(db);
 	
 	//SQL_TQuery(db, testcb, query, buffer);
 	new Handle:response = SQL_Query(db, query);
